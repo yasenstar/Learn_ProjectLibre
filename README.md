@@ -28,8 +28,12 @@ ProjectLibre offers Cloud, Artificial Intelligence and Desktop (we learn this on
 
 Join Community to find ProjectLibre:
 
+- [http://projectlibre.org/](http://projectlibre.org/)
 - [ProjectLibre on X(Twitter)](https://x.com/ProjectLibre)
 - [ProjectLibre on YouTube](https://www.youtube.com/channel/UCpvll2xkdgLkj9cWQ2hm4PA)
+- Source Code
+  - [https://sourceforge.net/p/projectlibre/code/ci/master/tree/](https://sourceforge.net/p/projectlibre/code/ci/master/tree/)
+  - [smartqubit/projectlibre](https://github.com/smartqubit/projectlibre)
 
 ## Learning Contents
 
