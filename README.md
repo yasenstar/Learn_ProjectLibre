@@ -13,3 +13,25 @@ Learn and share the usage of ProjectLibre as the open source project management 
 ![GitHub License](https://img.shields.io/github/license/yasenstar/Learn_ProjectLibre)
 ![GitHub language count](https://img.shields.io/github/languages/count/yasenstar/Learn_ProjectLibre)
 [![pages-build-deployment](https://github.com/yasenstar/Learn_ProjectLibre/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/Learn_ProjectLibre/actions/workflows/pages/pages-build-deployment)
+
+- [Learn\_ProjectLibre](#learn_projectlibre)
+  - [About ProjectLibre Desktop](#about-projectlibre-desktop)
+  - [Learning Contents](#learning-contents)
+
+## About ProjectLibre Desktop
+
+ProjectLibre desktop is free - open source project management software.
+
+It is positioned as #1 alternative to Microsoft Project Free Project.
+
+ProjectLibre offers Cloud, Artificial Intelligence and Desktop (we learn this one) solutions. Check https://www.projectlibre.com/projectlibre-desktop/ for more overview.
+
+## Learning Contents
+
+Base on ProjectLibre V1.9.8, below is the structure of the learning documentation:
+
+![learning_content_L1](img/Learn_ProjectLibre.png)
+
+---
+
+Last updated at: 1/4/2026, 1:57:50 PM 
