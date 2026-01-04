@@ -26,6 +26,11 @@ It is positioned as #1 alternative to Microsoft Project Free Project.
 
 ProjectLibre offers Cloud, Artificial Intelligence and Desktop (we learn this one) solutions. Check https://www.projectlibre.com/projectlibre-desktop/ for more overview.
 
+Join Community to find ProjectLibre:
+
+- [ProjectLibre on X(Twitter)](https://x.com/ProjectLibre)
+- [ProjectLibre on YouTube](https://www.youtube.com/channel/UCpvll2xkdgLkj9cWQ2hm4PA)
+
 ## Learning Contents
 
 Base on ProjectLibre V1.9.8, below is the structure of the learning documentation:
