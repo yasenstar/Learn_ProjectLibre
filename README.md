@@ -9,6 +9,5 @@ Learn and share the usage of ProjectLibre as the open source project management 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yasenstar/Learn_ProjectLibre)
 ![GitHub forks](https://img.shields.io/github/forks/yasenstar/Learn_ProjectLibre)
 ![GitHub License](https://img.shields.io/github/license/yasenstar/Learn_ProjectLibre)
-[![license](https://img.shields.io/pypi/l/spyder.svg)](./LICENSE.txt)
 ![GitHub language count](https://img.shields.io/github/languages/count/yasenstar/Learn_ProjectLibre)
 [![pages-build-deployment](https://github.com/yasenstar/Learn_ProjectLibre/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/yasenstar/Learn_ProjectLibre/actions/workflows/pages/pages-build-deployment)
